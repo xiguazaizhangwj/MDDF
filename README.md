@@ -1,4 +1,4 @@
-# MDHF
+# MDDF
 Modality-dominant dual-channel hierarchical fusion network for multimodal sensitive emotion recognition in social networks.
 
 PyTorch 1.12.0 implementation of the following paper.
@@ -8,4 +8,4 @@ The CH-MSE dataset can be obtained at the following address: https://pan.baidu.c
 Extract code:
 
 # Data preparation
-Image Object Recognition Yolov8 is available at: https://github.com/ultralytics/yolov8
+mage Encoding Pretrained ResNet50 and ResNet18 are available at: https://github.com/pytorch/vision
