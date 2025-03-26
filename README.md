@@ -8,4 +8,7 @@ The CH-MSE dataset can be obtained at the following address: https://pan.baidu.c
 Extract code:
 
 # Data preparation
-mage Encoding Pretrained ResNet50 and ResNet18 are available at: https://github.com/pytorch/vision
+image Encoding Pretrained ResNet50 and ResNet18 are available at: https://github.com/pytorch/vision
+
+# Code
+The code of this work will be released soon.
