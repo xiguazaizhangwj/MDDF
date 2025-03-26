@@ -1,5 +1,5 @@
 # MDDF
-Modality-dominant dual-channel dynamic fusion network for multimodal sensitive emotion recognition in social networks.
+Modality-dominant dual-channel dynamic fusion network for multimodal sensitive emotion recognition.
 
 PyTorch 1.12.0 implementation of the following paper.
 # Dataset
