@@ -3,10 +3,10 @@ Modality-dominant dual-channel dynamic fusion network for multimodal sensitive e
 
 PyTorch 1.12.0 implementation of the following paper.
 # Dataset
-The CH-MSE dataset can be obtained at the following address: https://pan.baidu.com/s/10X4skfl4CaOSyxltwdUUEw
+The CH-MSE dataset can be obtained at the following address: https://pan.baidu.com/s/1IOQfZPNlkEigoY3E7SZgKA
 
-Extract code:
-
+Extract code: j1fm
+ 
 # Data preparation
 Image Encoding Pretrained ResNet50 and ResNet18 are available at: https://github.com/pytorch/vision
 
